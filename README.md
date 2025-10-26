@@ -1,5 +1,5 @@
 # 💫 About Me:
-Curious electronic student, who loves to solve real world problem. <br>Loves iot , web dev and embedded systems
+Curious Electronics Engineering Undergrad , who loves to solve real world problems. <br>Loves iot , web dev and embedded systems
 
 
 ## 🌐 Socials:
