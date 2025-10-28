@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adithyankoonoth@gmail.com**
 
-- ⚡ Fun fact **Still Learning ny Doing**
+- ⚡ Fun fact **Still Learning by Doing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
