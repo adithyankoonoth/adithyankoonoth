@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://substack.com/@adithyank1](https://substack.com/@adithyank1)
 
-- 💬 Ask me about **AI , Hardware and Web Dev**
+- 💬 Ask me about ** Gen AI , Hardware and Web Dev**
 
 - 📫 Reach me at : **adithyankoonoth@gmail.com**
 
