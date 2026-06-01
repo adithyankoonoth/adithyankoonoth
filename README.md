@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Building Stuffs at [**favverse**](https://favverse.pages.dev)
 
-- 📝 I regularly write articles on [https://substack.com/@adithyank1](https://substack.com/@aadithyank)
+- 📝 I regularly write articles on [https://substack.com/@aadithyank](https://substack.com/@aadithyank)
 
 - 💬 Ask me about **Gen AI , Hardware and Web Dev**
 
