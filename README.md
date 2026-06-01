@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adithyan</h1>
 <h3 align="center">Passionate Electronics & Communication Engineering student leveraging cutting-edge technologies and open-source platforms for innovative solutions. Aiming to contribute meaningfully to technological advancements through collaboration and a drive for innovation.</h3>
 
-- 🔭 I’m currently Building Stuffs at **favverse**
+- 🔭 I’m currently Building Stuffs at [**favverse**](https://favverse.pages.dev)
 
-- 📝 I regularly write articles on [https://substack.com/@adithyank1](https://substack.com/@adithyank1)
+- 📝 I regularly write articles on [https://substack.com/@adithyank1](https://substack.com/@aadithyank)
 
 - 💬 Ask me about **Gen AI , Hardware and Web Dev**
 
