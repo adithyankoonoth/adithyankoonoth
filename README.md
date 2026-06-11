@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://substack.com/@aadithyank](https://substack.com/@aadithyank)
 
-- 💬 Ask me about **Gen AI , Hardware and Web Dev**
+- 💬 Ask me about **Gen AI, ML, Hardware and Web Dev**
 
 - 📫 Reach me at : **adithyankoonoth@gmail.com**
 
